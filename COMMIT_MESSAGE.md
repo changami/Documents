@@ -5,6 +5,7 @@ EMOJI using for a commit message
 :construction_worker: : move something  
 :gem: : change gem  
 :hatching_chick: : create or add something  
+:lipstick: : change format  
 :maple_leaf: : implement something  
 :memo: : change setting or something  
 :package: : package something  
