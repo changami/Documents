@@ -3,6 +3,7 @@ EMOJI using for a commit message
 :books: : change library  
 :bug: : fix a bug  
 :construction_worker: : move something  
+:cupid: : merge!  
 :gem: : change gem  
 :hatching_chick: : create or add something  
 :lipstick: : change format  
