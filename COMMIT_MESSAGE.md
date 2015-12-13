@@ -2,6 +2,7 @@ EMOJI using for a commit message
 ---
 :books: : change library  
 :bug: : fix a bug  
+:computer: : execute a command  
 :construction_worker: : move something  
 :cupid: : merge!  
 :gem: : change gem  
