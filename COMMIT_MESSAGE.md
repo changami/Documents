@@ -8,7 +8,7 @@ EMOJI using for a commit message
 :gem: : change gem  
 :hatching_chick: : create or add something  
 :lipstick: : change format  
-:maple_leaf: : implement something  
+:octopus: : implement something  
 :memo: : change setting or something  
 :package: : package something  
 :space_invader: : delete something  
